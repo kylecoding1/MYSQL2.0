@@ -1,6 +1,10 @@
-[2023-05-14 11-51-31.zip](https://github.com/kylecoding1/MYSQL2.0/files/11472719/2023-05-14.11-51-31.zip)
 
 # Employee Tracker
+
+
+# Clip of it working
+[2023-05-14 11-51-31.zip](https://github.com/kylecoding1/MYSQL2.0/files/11472719/2023-05-14.11-51-31.zip)
+
 
 A command-line application to manage a company's employee database.
 
