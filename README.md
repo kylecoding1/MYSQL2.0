@@ -27,8 +27,8 @@ The application uses the MySQL database to store and retrieve data related to de
 
 To install and run the Employee Tracker application, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd employee-tracker`
+1. Clone the repository: `git clone <MYSQL2.0>`
+2. Navigate to the project directory: `cd MYSQL2.0`
 3. Install the dependencies: `npm install`
 4. Set up your MySQL database by running the provided SQL script: `mysql -u <username> -p <database-name> < db/schema.sql`
 5. Configure the database connection in the `src/index.js` file, updating the host, user, password, and database information.
