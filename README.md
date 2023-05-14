@@ -62,6 +62,11 @@ The Employee Tracker application is built using the following technologies:
 - MySQL
 - console.table
 
+## Project links
+Github repository link : https://github.com/kylecoding1/MYSQL2.0
+
+Deployed Application link: https://kylecoding1.github.io/MYSQL2.0/
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
